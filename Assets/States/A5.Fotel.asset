@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9082fc922eb8441ac60aed24644297, type: 3}
+  m_Name: A5.Fotel
+  m_EditorClassIdentifier: 
+  visitated: 0
+  storyText: "W miar\u0119 jak zbli\u017Casz si\u0119 do kominka s\u0142yszysz coraz
+    wyra\u017Aniej co\u015B na kszta\u0142t duszenia po\u0142\u0105czonego z piskiem.
+    W ko\u0144cu jeste\u015B na tyle blisko, \u017Ce dostrzegasz i\u017C na fotelu
+    co\u015B siedzi i chyba \u015Bpi. Nie jeste\u015B pewien co to jest, kszta\u0142tem
+    przypomina cz\u0142owieka ale zdeformowanego. Pozbawionego cz\u0119\u015Bci twarzy,
+    jednej r\u0119ki a z miejscu gdzie powinny znajdowa\u0107 si\u0119 nogi widnieje
+    gruba macka opadaj\u0105ca na pod\u0142og\u0119.\r\n\r\n1.Zaatakuj.\r\n\r\n2.Podejd\u017A
+    bli\u017Cej.\r\n\r\n3.Wr\xF3\u0107."
+  nextStates:
+  - {fileID: 11400000, guid: 5aad269befb06674a823afd30df4e811, type: 2}
+  - {fileID: 11400000, guid: 07a12f387f8f1dc4eb24f25924e3a3a4, type: 2}
+  - {fileID: 11400000, guid: fc52e1652e441f847aae31dc6f29c306, type: 2}
+  - {fileID: 11400000, guid: fc52e1652e441f847aae31dc6f29c306, type: 2}
+  - {fileID: 11400000, guid: 5a788b5919cc9c044946840a25a839a7, type: 2}
+  - {fileID: 11400000, guid: 5a788b5919cc9c044946840a25a839a7, type: 2}
+  requiredItem: None
+  itemInside: None

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9082fc922eb8441ac60aed24644297, type: 3}
+  m_Name: A9.drewniane Drzwi
+  m_EditorClassIdentifier: 
+  visitated: 0
+  storyText: "Zwyk\u0142e drzwi \r\n\r\n1.Otw\xF3rz drzwi.\r\n\r\n2.Wr\xF3\u0107.\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 031749db794e59944af9bf411c19f894, type: 2}
+  - {fileID: 11400000, guid: 6df21329199e7774684bd638406bda0a, type: 2}
+  - {fileID: 11400000, guid: 2007d299b135cfa4c8ba7807fdbd2547, type: 2}
+  - {fileID: 11400000, guid: 2007d299b135cfa4c8ba7807fdbd2547, type: 2}
+  requiredItem: None
+  itemInside: None

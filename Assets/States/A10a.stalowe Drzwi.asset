@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9082fc922eb8441ac60aed24644297, type: 3}
+  m_Name: A10a.stalowe Drzwi
+  m_EditorClassIdentifier: 
+  visitated: 0
+  storyText: "Wlewasz wod\u0119 do leja. u\u017Cywaj\u0105c mosi\u0119\u017Cnej ko\u0144c\xF3wki
+    wt\u0142aczasz wod\u0119 do mechanizmu. S\u0142yszysz d\u017Awi\u0119ki przeskakuj\u0105cych
+    zapadek. Drzwi lekko uchylaj\u0105 si\u0119 otwieraj\u0105c drog\u0119 naprz\xF3d.
+    \    \r\n\r\n1.wejd\u017A do sali za drzwiami.\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 7c51188b7fd8f424e9251899ab1c6e1f, type: 2}
+  - {fileID: 11400000, guid: 7c51188b7fd8f424e9251899ab1c6e1f, type: 2}
+  requiredItem: "cuchn\u0105cy p\u0142yn"
+  itemInside: None

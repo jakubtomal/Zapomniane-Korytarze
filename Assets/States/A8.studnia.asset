@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9082fc922eb8441ac60aed24644297, type: 3}
+  m_Name: A8.studnia
+  m_EditorClassIdentifier: 
+  visitated: 0
+  storyText: "Spogl\u0105daj\u0105c w d\xF3\u0142 dostrzegasz jedynie ciemno\u015B\u0107,
+    na \u015Bcianie studni le\u017Cy puste wiadro\r\n\r\n1.Spu\u015B\u0107 wiadro
+    w d\xF3\u0142 .\r\n\r\n2.wr\xF3\u0107.\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: d19d27319b3adae49a58aac5e01c36d9, type: 2}
+  - {fileID: 11400000, guid: e0c045a87ce305242b7dc6e2c968daa3, type: 2}
+  - {fileID: 11400000, guid: 78ca72ca0cbf6cd418170e4d66f18f1b, type: 2}
+  - {fileID: 11400000, guid: 78ca72ca0cbf6cd418170e4d66f18f1b, type: 2}
+  requiredItem: None
+  itemInside: None

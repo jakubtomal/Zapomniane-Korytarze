@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9082fc922eb8441ac60aed24644297, type: 3}
+  m_Name: "A9a.\u017Cyrandol"
+  m_EditorClassIdentifier: 
+  visitated: 0
+  storyText: "Rzucasz szabl\u0105, kt\xF3rej ostra jaki brzytwa g\u0142ownia rozcina
+    sznur. \u017Byrandol spada na posadzk\u0119 wywo\u0142uj\u0105c kakofoni\u0119
+    d\u017Awi\u0119k\xF3w roznosz\u0105cych si\u0119 po pomieszczeniu. Zauwa\u017Casz
+    \u017Ce sznur przy drugim ko\u0144cu jest zawi\u0105zany na haku po czyn zwini\u0119ty
+    w kilkana\u015Bcie pier\u015Bcieni.\r\n\r\n 1.Podnie\u015B miecz.\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 6b92bc55a37ee6f45b630ae592e0690b, type: 2}
+  - {fileID: 11400000, guid: 6b92bc55a37ee6f45b630ae592e0690b, type: 2}
+  requiredItem: miecz
+  itemInside: None

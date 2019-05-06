@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9082fc922eb8441ac60aed24644297, type: 3}
+  m_Name: A6b.FotelAtak
+  m_EditorClassIdentifier: 
+  visitated: 0
+  storyText: "Potw\xF3r budzi si\u0119 i oplata ca\u0142e twoje cia\u0142o o\u015Blizg\u0142\u0105
+    i cuchn\u0105c\u0105 mack\u0105. Ostatnie co s\u0142yszysz to dziwnie smutny rechot
+    stworzenia.   \r\n\r\n1.Rozpocznij od nowa."
+  nextStates:
+  - {fileID: 11400000, guid: 1cebed547c459f44a9263defddb93c7b, type: 2}
+  - {fileID: 11400000, guid: 1cebed547c459f44a9263defddb93c7b, type: 2}
+  requiredItem: None
+  itemInside: None

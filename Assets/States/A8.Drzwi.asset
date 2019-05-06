@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9082fc922eb8441ac60aed24644297, type: 3}
+  m_Name: A8.Drzwi
+  m_EditorClassIdentifier: 
+  visitated: 0
+  storyText: "Na Ko\u0144cu sali widzisz wielkie stalowe drzwi kt\xF3rych ornamenty
+    przedstawiaj\u0105 sceny groteskowe sceny sodomii z udzia\u0142em ludzi zakutych
+    w kajdany oraz morskich abominacji nie podobnych do gatunk\xF3w kt\xF3re wcze\u015Bniej
+    widzia\u0142e\u015B. Po prawej za\u015B stoj\u0105 solidne niczym nie wyr\xF3\u017Cniaj\u0105ce
+    si\u0119  drewniane drzwi   \r\n\r\n1.Podejd\u017A stalowych drzwi.\r\n\r\n2.Podejd\u017A
+    do drewnianych drzwi.\r\n\r\n3.Wr\xF3\u0107.\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 4a77e4709e8739449a2d5c2be4922db4, type: 2}
+  - {fileID: 11400000, guid: 4a77e4709e8739449a2d5c2be4922db4, type: 2}
+  - {fileID: 11400000, guid: 1ef8c38a16b848b4392900ff97d76ea9, type: 2}
+  - {fileID: 11400000, guid: 1ef8c38a16b848b4392900ff97d76ea9, type: 2}
+  - {fileID: 11400000, guid: 78ca72ca0cbf6cd418170e4d66f18f1b, type: 2}
+  - {fileID: 11400000, guid: 78ca72ca0cbf6cd418170e4d66f18f1b, type: 2}
+  requiredItem: None
+  itemInside: None
